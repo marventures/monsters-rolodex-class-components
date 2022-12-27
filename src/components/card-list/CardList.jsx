@@ -2,12 +2,12 @@ import React, { Component } from 'react';
 
 export class CardList extends Component {
   render() {
-    console.log('render');
-    const { monsters } = this.props;
+    console.log('render from CardList');
+    const { filteredMonsters } = this.props;
 
     return (
       <div>
-        {monsters.map(monster => (
+        {filteredMonsters.map(monster => (
           <h1 key={monster.id}>{monster.name}</h1>
         ))}
       </div>
