@@ -18,8 +18,8 @@ It's a React Class Component project with search and filter functionality.
 
 ### Screenshot
 
-![Picture 1](https://user-images.githubusercontent.com/108392678/209674377-ba41bef6-d999-46f8-a1d2-d68cbf43073c.png)
 ![Picture 2](https://user-images.githubusercontent.com/108392678/209674407-20548465-a3ef-46b4-a780-978f8f890d2a.png)
+![Picture 1](https://user-images.githubusercontent.com/108392678/209674377-ba41bef6-d999-46f8-a1d2-d68cbf43073c.png)
 
 
 ### Links
