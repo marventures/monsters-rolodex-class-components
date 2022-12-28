@@ -24,7 +24,7 @@ It's a React Class Component project with search and filter functionality.
 
 ### Links
 
-- DEMO:[Demo](https://monsters-rolodex-class-components.vercel.app/) 
+- DEMO [here](https://monsters-rolodex-class-components.vercel.app/) 
 
 ## My process
 
