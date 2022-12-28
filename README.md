@@ -1,4 +1,4 @@
-# My Portfolio Website
+# Monsters Rolodex (Class Components)
 
 This is a React App created with Vite.
 It's a React Class Component project with search and filter functionality.
