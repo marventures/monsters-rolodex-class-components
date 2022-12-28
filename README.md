@@ -31,6 +31,7 @@ It's a React Class Component project with search and filter functionality.
 ### Built with
 
 - [React](https://reactjs.org/docs/getting-started.html)
+- [Vite](https://vitejs.dev/guide/)
 
 ### What I learned
 
